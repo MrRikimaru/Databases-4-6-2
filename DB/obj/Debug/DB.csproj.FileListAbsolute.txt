@@ -1,0 +1,30 @@
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Debug\DB.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Debug\DB.exe
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Debug\DB.pdb
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.exe
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Debug\DB.pdb
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.pdb
+C:\Users\andre\Desktop\DB\DB\bin\Debug\DB.exe.config
+C:\Users\andre\Desktop\DB\DB\bin\Debug\DB.exe
+C:\Users\andre\Desktop\DB\DB\bin\Debug\DB.pdb
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\DB\DB\obj\Debug\DB.exe
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\bin\Debug\DB.exe.config
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\bin\Debug\DB.exe
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\bin\Debug\DB.pdb
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.Form1.resources
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.Properties.Resources.resources
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.exe
+C:\Users\andre\Desktop\Сессия 08-14.06.2024\БД\Курсовая работа\DB\DB\obj\Debug\DB.pdb

@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Release\DB.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Release\DB.exe
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\bin\Release\DB.pdb
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.Form1.resources
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.exe
+C:\Users\andre\OneDrive\Рабочий стол\DB\DB\obj\Release\DB.pdb
